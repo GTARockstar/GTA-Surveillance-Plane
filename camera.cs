@@ -1,3 +1,7 @@
+//*
+//You are free to copy, use, distribute, tweek and modify any of this code as you see fit
+//*
+
 using System;
 using System.Drawing;
 using System.Windows.Forms;
