@@ -20,7 +20,6 @@ public class CreateCamera : Script
     public int zoomlvl = 70;
     public int camshake = 0;
     public int nvg = 0;
-    public int LockOn = 0;
     public int ScriptStatus = 0;
     public double mouseX = 20.0;
     public double mouseY = 20.0;
