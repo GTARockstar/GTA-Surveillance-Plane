@@ -238,7 +238,7 @@ public class CreateCamera : Script
     {
         if (ScriptStatus == 1)
         {
-            //END CAMERA MODE AND RETURN PLAYER
+            //PRESS END TO EXIT CAMERA MODE AND RETURN PLAYER
             if (e.KeyCode == Keys.End || Game.Player.IsDead || ScriptStatus == 0)
             {
                 Function.Call(Hash.SET_ENTITY_COORDS, Game.Player.Character, 1747.0f, 3273.7f, 41.1f, 0, 0, 0, 1);
